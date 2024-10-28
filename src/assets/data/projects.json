@@ -1,5 +1,19 @@
 [
   {
+    "name": "Inventory Management",
+    "description": "✅ This application is a comprehensive management system for a meat distribution company, integrating stock tracking, billing, payment tracking, PDF generation, and authentication features to optimize operations. ",
+    "tags": [
+      "Angular",
+      "PrimeNG",
+      "ASP .NET",
+      "REST API",
+      "MSSQL"
+    ],
+    "links":[
+      
+    ]
+  },
+  {
     "name": "Portfolio",
     "description": "✨ My personal Website",
     "tags": [
@@ -10,12 +24,71 @@
     ],
     "links":[
       {
-        "url":"youtube.com",
-        "title":"Project Link",
-        "icon":"assets/icons/link.svg"
-      },
+        "url":"https://github.com/MohamedMatrab/portfolio-2024",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
+    ]
+  },
+  {
+    "name": " School Management System",
+    "description": "✅ Developed a school management system to manage facilities, teachers, users, schedules, and surveillance shifts. It features role-based permissions for directors, coordinators, and others, handling teaching loads, surveillance duties, and administrative tasks.",
+    "tags": [
+      ".NET Framework",
+      "ASP .NET MVC",
+      "MSSQL",
+      "Rotativa"
+    ],
+    "links":[
+      
+    ]
+  },
+  {
+    "name": "Dashboard Template",
+    "description": "📍 Inventory Dashboard Template with Angular, styled with Tailwind CSS, features a sleek, responsive design with a minimalist layout. It includes a fixed sidebar for quick navigation, a top navbar for key actions, and well-spaced card components for showcasing essential metrics.",
+    "tags": [
+      "Angular",
+      "Tailwind",
+      "Typescript"
+    ],
+    "links":[
       {
-        "url":"youtube.com",
+        "url":"https://github.com/MohamedMatrab/inventory-tailwind-angular-template",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
+    ]
+  },
+  {
+    "name": "Dentist Reservations System",
+    "description": "📍 This application that simplifies appointment scheduling for dental practices. Patients can book appointments and receive confirmations, while admins can manage the calendar and patient details, providing a user-friendly solution for handling dental reservations.",
+    "tags": [
+      "PHP",
+      "HTML5",
+      "CSS",
+      "MVC Architecture",
+      "MySQL"
+    ],
+    "links":[
+      {
+        "url":"https://github.com/MohamedMatrab/dentist-reservations.git",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
+    ]
+  },
+  {
+    "name": "Collection of Java Training Projects",
+    "description": "📍 This repository offers a wide range of Java projects for mastering core to advanced concepts. Key among them is the 'money contribution with the roommates' project, providing hands-on practice with Java fundamentals and design patterns, ideal for building Java expertise.",
+    "tags": [
+      "Java",
+      "Swing",
+      "Threads",
+      "Advanced Java"
+    ],
+    "links":[
+      {
+        "url":"https://github.com/MohamedMatrab/Java-trainings-collection.git",
         "title":"Gihub Repository",
         "icon":"assets/icons/github.svg"
       }

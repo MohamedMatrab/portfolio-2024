@@ -1,5 +1,27 @@
 [
   {
+    "company": "Meat distribution company",
+    "location": "Casablanca, Morocco",
+    "description": "Inventory and Billing Management Application Development . Developing a comprehensive management application for a meat distribution company that integrates stock and payments tracking, billing, PDF generation, and an authentication feature, providing complete optimization of the company's business operations. ASP .Net Web API , Angular",
+    "position": "Freelance",
+    "url": "",
+    "startDate": "2024",
+    "endDate": "2024",
+    "remote": false,
+    "highlights": []
+  },
+  {
+    "company": "National School of Applied Sciences - Safi",
+    "location": "Casablanca, Morocco",
+    "description": "Developed a school management system for managing facilities,teachers, users, schedules, and surveillance shifts. Implemented role-based permissions for directors, coordinators, and other roles, each with specific access and permissions. Managed teaching loads, surveillance duties, and all administrative tasks related to school management.",
+    "position": "Academic Project",
+    "url": "",
+    "startDate": "2023",
+    "endDate": "2024",
+    "remote": false,
+    "highlights": []
+  },
+  {
     "company": "Qualitas environmental solutions",
     "location": "Casablanca, Morocco",
     "description": "Developed a user-friendly desktop application using the Spring Framework and Swing interface to extract and process data from .log files, including exception handling.",

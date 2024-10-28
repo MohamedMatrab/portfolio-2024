@@ -2,6 +2,7 @@
   ".NET Framework",
   "ASP.NET MVC",
   "ASP.NET REST API",
+  "MSSQL",
   "Microservice Architecture",
   "Angular",
   "Typescript",
@@ -10,5 +11,10 @@
   "HTML",
   "CSS",
   "PrimeNG",
-  "Flutter"
+  "Java",
+  "Spring Framework",
+  "Flutter",
+  "SQLite",
+  "Problem Solving",
+  "Teamwork"
 ]
