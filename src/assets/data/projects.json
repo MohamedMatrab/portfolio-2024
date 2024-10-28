@@ -24,6 +24,11 @@
     ],
     "links":[
       {
+        "url":"https://mohamed-matrab.vercel.app/",
+        "title":"Deployment",
+        "icon":"assets/icons/link.svg"
+      },
+      {
         "url":"https://github.com/MohamedMatrab/portfolio-2024",
         "title":"Gihub Repository",
         "icon":"assets/icons/github.svg"
