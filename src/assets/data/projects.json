@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Portfolio",
+    "description": "✨ My personal Website",
+    "tags": [
+      "Angular",
+      "Tailwind",
+      "SSR",
+      "Typescript"
+    ],
+    "links":[
+      {
+        "url":"youtube.com",
+        "title":"Project Link",
+        "icon":"assets/icons/link.svg"
+      },
+      {
+        "url":"youtube.com",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
+    ]
+  }
+]

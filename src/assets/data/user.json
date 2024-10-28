@@ -1,0 +1,35 @@
+{
+  "name": "Mohamed Matrab",
+  "label": "Software Engineer",
+  "footerLabel":"Mohamed Matrab | Software Engineer",
+  "image": "./assets/profile.jpg",
+  "email": "mohamed.matrab.64@gmail.com",
+  "phone": "+212 720-212018",
+  "phoneLabel": "+212720212018",
+  "url": "https://uspiri.com",
+  "summary": "I enjoy learning, keeping up to date and practicing with new technologies, and I am proud to highlight my ability to transmit this knowledge to others in a clear and effective way. This vocation to help and share my knowledge has led me to be the leader of a development team specialized in Angular, where I contribute to the joint growth and success.",
+  "location": {
+    "address": "Casablanca, Morocco",
+    "map": "https://maps.app.goo.gl/Fbk2r9gyAHbVzyEy5"
+  },
+  "profiles": [
+    {
+      "url": "https://github.com/MohamedMatrab",
+      "network": "Github",
+      "username": "MohamedMatrab",
+      "icon":"assets/icons/github.svg"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mohamed-matrab-750436203/",
+      "network": "Linkedin",
+      "username": "mohamed matrab",
+      "icon":"assets/icons/linkedin.svg"
+    },
+    {
+      "url": "https://x.com/MohamedMatrab1",
+      "network": "X",
+      "username": "MohamedMatrab1",
+      "icon":"assets/icons/x.svg"
+    }
+  ]
+}

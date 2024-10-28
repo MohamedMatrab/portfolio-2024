@@ -1,0 +1,36 @@
+<nav
+  class="sticky top-0 z-10 flex h-14 justify-center bg-neutral-950/50 px-5 text-neutral-400 backdrop-blur-md"
+>
+  <div class="flex w-full max-w-4xl items-center justify-between">
+    <a routerLink="/" class="flex items-center gap-2">
+      <svg-icon src="assets/icons/code.svg" svgClass="w-4 h-4"></svg-icon>
+      <span class="font-semibold"> {{(user | async)?.name}} </span>
+    </a>
+    <section class="hidden md:flex">
+      <ul class="flex gap-3 font-semibold">
+      
+        <li>
+          <a href="#experience">Experience</a>
+        </li>
+        <li>
+          <a href="#projects">Projects</a>
+        </li>
+        <li>
+          <a href="#educations">Education</a>
+        </li>
+        <li>
+          <a href="#skills">Skills</a>
+        </li>
+        <li>
+          <a
+            href="https://drive.google.com/file/d/1NYxtVpv03UDAY0CC2BdfZKvD2mkukuuz/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            btnStyle="base"
+            >CV</a
+          >
+        </li>
+      </ul>
+    </section>
+  </div>
+</nav>

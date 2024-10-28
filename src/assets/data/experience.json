@@ -1,0 +1,13 @@
+[
+  {
+    "company": "Qualitas environmental solutions",
+    "location": "Casablanca, Morocco",
+    "description": "Developed a user-friendly desktop application using the Spring Framework and Swing interface to extract and process data from .log files, including exception handling.",
+    "position": "Internship",
+    "url": "https://www.qualitasenv.com/",
+    "startDate": "2023",
+    "endDate": "2023",
+    "remote": false,
+    "highlights": []
+  }
+]

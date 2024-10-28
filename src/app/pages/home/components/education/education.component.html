@@ -1,0 +1,10 @@
+<section id="educations">
+    <app-title>Education</app-title>
+    <ul class="mt-10 flex flex-col gap-3">
+      @for (education of educations; track $index) {
+        <li>
+          <app-education-card [education]="education" />
+        </li>
+      }
+    </ul>
+  </section>
