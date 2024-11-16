@@ -1,5 +1,25 @@
 [
   {
+    "name": "Product Web API Service",
+    "description": "📦 A robust Web API service for managing products, including all CRUD operations, server-side pagination, authorization, and authentication. The service is built using the Onion Architecture to ensure maintainability and scalability.",
+    "tags": [
+      "ASP .NET",
+      "REST API",
+      "MSSQL",
+      "Authorization",
+      "Authentication",
+      "Onion Architecture",
+      "Server-side Pagination"
+    ],
+    "links": [
+      {
+        "url":"https://github.com/MohamedMatrab/products-api",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
+    ]
+  },
+  {
     "name": "Inventory Management",
     "description": "✅ This application is a comprehensive management system for a meat distribution company, integrating stock tracking, billing, payment tracking, PDF generation, and authentication features to optimize operations. ",
     "tags": [
@@ -10,7 +30,7 @@
       "MSSQL"
     ],
     "links":[
-      
+
     ]
   },
   {
@@ -45,7 +65,23 @@
       "Rotativa"
     ],
     "links":[
-      
+
+    ]
+  },
+  {
+    "name": "Student Management Application",
+    "description": "🎓 An academic project designed to manage student records efficiently. The application is built using WPF .NET with EF Core for the backend and follows the MVVM architecture for maintainability and separation of concerns.",
+    "tags": [
+      "WPF .NET",
+      "Entity Framework Core",
+      "MVVM Architecture"
+    ],
+    "links": [
+      {
+        "url":"https://github.com/MohamedMatrab/StudentManagmentWPFApp",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
     ]
   },
   {
