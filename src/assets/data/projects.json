@@ -1,5 +1,25 @@
 [
   {
+    "name": "🛒 E-Shop : A Scalable E-Commerce Platform",
+    "description": "In this project, I built an e-commerce platform using the .NET framework and microservices architecture. The system includes services for product catalog, cart (basket), discounts, and ordering, all communicating through an API Gateway. A client-side application was developed for a seamless shopping experience, while the microservices ensure scalability, maintainability, and efficient performance.",
+    "tags": [
+      "ASP .NET",
+      "REST API",
+      "Microservices",
+      "Api Gateway",
+      "PostgresQL",
+      "Blazor",
+      "Server-side Pagination"
+    ],
+    "links": [
+      {
+        "url":"https://github.com/MohamedMatrab/eshop_microservices.git",
+        "title":"Gihub Repository",
+        "icon":"assets/icons/github.svg"
+      }
+    ]
+  },
+  {
     "name": "Product Web API Service",
     "description": "📦 A robust Web API service for managing products, including all CRUD operations, server-side pagination, authorization, and authentication. The service is built using the Onion Architecture to ensure maintainability and scalability.",
     "tags": [
